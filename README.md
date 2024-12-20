@@ -1,4 +1,4 @@
-# groovy-web-maven-springboot-thyme-hello-world
+# groovy-web-maven-spring-thyme-fragment-hello
 
 ## Description
 A POC for spring framework.
